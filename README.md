@@ -59,4 +59,4 @@ A comprehensive, next-generation personal finance management web application bui
 Do **not** commit your real `OPENROUTER_API_KEY` to public repositories. Always use environment variables or keep it private.
 
 ---
-*Developed as a Final Year Project by Ahammed Irfan.*
+*Developed as a Final Year Project by Aditya Sebi.*
